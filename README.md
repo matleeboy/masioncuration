@@ -1,2 +1,0 @@
-# masioncuration
-curation website
